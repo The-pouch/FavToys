@@ -7,7 +7,6 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-<!--    TO-DO (2) Add an id to the TextView with the value @+id/tv_toy_names-->
     <TextView
         android:id="@+id/tv_toy_names"
         android:layout_width="wrap_content"
