@@ -7,11 +7,11 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-<!--    TODO (2) Add an id to the TextView with the value @+id/tv_toy_names-->
+<!--    TO-DO (2) Add an id to the TextView with the value @+id/tv_toy_names-->
     <TextView
+        android:id="@+id/tv_toy_names"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/app_name"
         android:padding="16dp"
         android:textSize="20sp"/>
 
